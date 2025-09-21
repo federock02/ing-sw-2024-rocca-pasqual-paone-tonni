@@ -15,7 +15,7 @@ Alberto Tonni.
 
 **Group**: GC32
 
-**Score**: ?/30
+**Score**: 30L/30
 
 
 ## UML
